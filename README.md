@@ -1,4 +1,4 @@
-# Session 22 - UNET and VAE
+# UNET and VAE
 
 ## Objective
 
